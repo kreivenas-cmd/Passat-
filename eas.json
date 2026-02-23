@@ -3,12 +3,9 @@
     "preview": {
       "android": {
         "buildType": "apk"
-      }
+      },
+      "credentialsSource": "remote"
     },
-    "production": {
-      "android": {
-        "buildType": "apk"
-      }
-    }
+    "production": {}
   }
 }
