@@ -18,6 +18,7 @@
     "android": {
       "package": "com.vwadaptation.app",
       "buildType": "apk",
+      "versionCode": 1,
       "permissions": [
         "BLUETOOTH",
         "BLUETOOTH_ADMIN",
