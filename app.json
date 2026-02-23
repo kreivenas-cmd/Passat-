@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "VW Passat B6 Adaptacija",
-    "slug": "vw-passat-b6-adaptation",
+    "name": "Obd",
+    "slug": "Obd",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
